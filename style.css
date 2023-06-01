@@ -1,0 +1,86 @@
+.active{
+    font-weight: 700 !important;
+    font-size: 22px !important;
+    color: #00afaa !important;
+}
+
+ul li .contact {
+    background-color: #00afaa;
+    border-radius: 50px;
+    border: 1px solid transparent;
+    transition: all 0.5s ease-in-out;
+    color: #fff;
+    
+}
+
+ul li .contact:hover{
+    background-color: transparent;
+    border: 2px solid  #00afaa;
+}
+.bunner {
+    background-image: url('img/ima.jpg');
+    
+}
+.bunner .para {
+        font-size: 19px;
+}
+
+ .Button1 {
+   
+    background-color: #00afaa;
+    border-radius: 50px;
+    border: 1px solid transparent;
+    transition: all 0.5s ease-in-out;
+    padding: 8px 15px;
+    
+}
+.hghf{
+    margin: 0;
+}
+ .Button11 {
+   
+    background-color:transparent;
+    border-radius: 50px;
+    border: 2px solid #269541;
+    transition:  1s ease-in-out;
+    padding: 12px 15px;
+    color: #fff;
+    
+}
+
+.bunner .Button1 a{
+    text-decoration: none;
+    color: #fff;
+}
+.bunner .Button1 a:hover {
+    color: #00afaa  !important;
+}
+.bunner .Button1:hover {
+    background-color: transparent;
+    border: 1px solid #00afaa; 
+    
+}
+
+.cclo {
+   background-color: rgba(119, 145, 145, 0.699);
+}
+
+.vvv{
+    background-color: rgba(171, 199, 199, 0.688);
+}
+.erer {
+    background-color: #3f454d;
+}
+
+.col-3 {
+    padding: 23px; ;
+}
+
+.vvvv{
+    width: 40px;
+    height: 6px;
+}
+
+.ggg {
+    color: #8196a0;
+}
